@@ -1,0 +1,13 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body{
+  margin: 0 auto;
+  max-width: 1240px;
+  padding-top:20px;
+}
+
+mat-form-field{
+  width: 100%;
+}
